@@ -36,10 +36,10 @@ This project focuses on building a machine learning model to predict taxi trip p
 
 R² Score: 71
 
-**SVR (Support Vector Regression)**
+**SVR (Support Vector Regression) Best Model**
 * Performance metrics:
 
-R² Score: 62 → 80
+R² Score: 62 → 82
 
 **Decision Tree**
 * Performance metrics:
