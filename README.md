@@ -32,27 +32,27 @@ This project focuses on building a machine learning model to predict taxi trip p
 **These models were built and compared:**
 
 **Linear Regression**
-Performance metrics:
+* Performance metrics:
 
 R² Score: 71
 
 **SVR (Support Vector Regression)**
-Performance metrics:
+* Performance metrics:
 
 R² Score: 62 → 80
 
 **Decision Tree**
-Performance metrics:
+* Performance metrics:
 
 R² Score: 57 → 70
 
 **Random Forest**
-Performance metrics:
+* Performance metrics:
 
 R² Score: 75 → 78
 
 **XGB**
-Performance metrics:
+* Performance metrics:
 
 R² Score: 79
 
